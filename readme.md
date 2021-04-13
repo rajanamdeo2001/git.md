@@ -5,12 +5,12 @@
 ## ***Version control system*** <br><br>
  Version control syste, (VCS) is a software that helps software devlopers to work together and make complete history of work.
 
- **Functin of VCS :-**
+ **Function of VCS :-**
  - allow developers to work simultenously
  - Doesn't allow overwriting each others's changes.
  - Maintain a history of every version.
 
- **Functin of VCS :-**
+ **uses of VCS :-**
  - Centralised version control system
  - Distributed version contral system
 
@@ -198,11 +198,11 @@
 
     - *git log* - To show the chronological commit history for a repository
     ```git
-    # Show intire file log
+    # Show entire file log
     $ git log
 
 
-    # Show git logs with para meter
+    # Show git logs with parameter
     $ git log --<after/before/since/untill>=<date>
 
 
